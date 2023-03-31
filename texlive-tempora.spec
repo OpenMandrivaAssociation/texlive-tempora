@@ -1,6 +1,6 @@
 Name:		texlive-tempora
 Version:	39596
-Release:	1
+Release:	2
 Summary:	Greek and Cyrillic to accompany Times
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/tempora
