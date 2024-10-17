@@ -3,7 +3,7 @@ Version:	39596
 Release:	2
 Summary:	Greek and Cyrillic to accompany Times
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/tempora
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/tempora
 License:	gpl2
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/tempora.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/tempora.doc.r%{version}.tar.xz
